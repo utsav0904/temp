@@ -1,0 +1,1 @@
+{"id":"dev.bitperfect.qobuz.de.personal","name":"Qobuz [Heisenbergg]","version":"1.0.0-de","resources":["search","stream"],"allowDownloads":1,"checkValidLossless":0,"settings":[{"key":"quality","default":"LOSSLESS","options":[{"value":"LOSSLESS"},{"value":"HI_RES"},{"value":"HIGH"},{"value":"LOW"}]}]}
